@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-luz",
+  "version": "1.0.0",
+  "description": "Paquete de prueba para el proceso de creación de un paquete npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuzElisa27/npm-test-luz.git"
+  },
+  "author": "Luz Elisa Guerrero Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuzElisa27/npm-test-luz/issues"
+  },
+  "homepage": "https://github.com/LuzElisa27/npm-test-luz#readme"
+}
